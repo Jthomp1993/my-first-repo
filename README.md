@@ -1,39 +1,18 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# My First Repo
+[Click here to view my deployed project!] (https://jthomp1993.github.io/my-first-repo/)
 
-Welcome USER_NAME,
+I created this project whilst completing the section on the command line interface, git and github. It enabled me to be able to practice using the commands in the terminal, pushing my work up to the main repositiory and also deploying projects so that they are live. 
+The technolgies that I used in the project were HTML and CSS. I used this technologies to create a 3 page website which displays a number of different programming languages and platforms that includes their logos and a link to their Wikipedia page. 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+Below is a section of HTML code demonstrated by the tutor to create the section about HTML5 on my webpage. 
+<h1>Stream One</h1>
+<div class="card">
+      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML5"/>
+          <h2>HTML5</h2>
+      </a>
+</div>
 
-## Gitpod Reminders
+In the future I would like to add more information about each item which is displayed on the web page rather than just the name and the logo image. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
-`python3 -m http.server`
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+During the creation of this project I encountered a couple of problems such as git hub not being able to access the URL of my project when i tried to push it up to the main repository. However I found a quick solution to this by searching on google which happened to be just changing my sections within the access control settings. 
